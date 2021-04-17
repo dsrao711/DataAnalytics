@@ -25,3 +25,9 @@
 
     1. [Functional Plot , Subplots , Figures , Appearance  ](https://github.com/dsrao711/DataAnalytics/blob/main/Matplotlib/Subplots%2Cfigures%2CAppearance.ipynb)
     
+## Plotly 
+
+- Topic Covered
+
+    1 . [Line Plot](/Plotly/Plotly.ipynb)
+    2 . [Bar Charts](/Plotly/Plotly.ipynb)
