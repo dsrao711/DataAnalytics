@@ -30,4 +30,5 @@
 - Topic Covered
 
     1 . [Line Plot](/Plotly/Plotly.ipynb)
+    
     2 . [Bar Charts](/Plotly/Plotly.ipynb)
