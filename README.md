@@ -39,4 +39,4 @@
 
     5 . [Waterfall Chart](/Plotly/WaterfallChart)
 
-    6 . [Contour PLots](/Plotly/Contour Plots)
+    6 . [Contour PLots](/Plotly/ContourPlots)
