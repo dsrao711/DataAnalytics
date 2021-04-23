@@ -32,3 +32,11 @@
     1 . [Line Plot](/Plotly/Plotly.ipynb)
     
     2 . [Bar Charts](/Plotly/Plotly.ipynb)
+
+    3 . [Ternary Plot](/Plotly/TernaryPlots)
+
+    4 . [Funnel Chart](/Plotly/FunnelChart)
+
+    5 . [Waterfall Chart](/Plotly/WaterfallChart)
+
+    6 . [Contour PLots](/Plotly/Contour Plots)
